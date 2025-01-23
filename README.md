@@ -28,4 +28,5 @@ A simple Todo application built with **Spring Boot**, **Thymeleaf**, **MySQL**, 
 ### Steps
 
 1. **Clone the repository**:
-   ```bash https://github.com/M-Rameshkumar/Todo-List-using-Thymeleaf/tree/main
+   ```bash
+   git clone https://github.com/M-Rameshkumar/Todo-List-using-Thymeleaf/tree/main
